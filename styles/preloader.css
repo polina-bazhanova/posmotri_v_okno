@@ -5,6 +5,11 @@
   justify-content: center;
   align-items: center;
   background: #545050;
+  inset: 0;
+}
+
+.preloader-template {
+  
 }
 
 .preloader-chasing-squares {
